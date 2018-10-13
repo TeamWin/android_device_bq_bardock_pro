@@ -1,4 +1,4 @@
-TWRP device tree for the BQ Aquaris X Pro, aka bardock
+TWRP device tree for the BQ Aquaris X Pro, aka bardockpro
 ========================================================
 
 For building TWRP only.
